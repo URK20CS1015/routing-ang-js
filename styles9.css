@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+}
+hr{
+    border: 3px solid brown;
+    background-color: brown;
+}
+h1 {
+    background-color:brown;
+    text-align:center;
+    color:white;
+}
+
+html,body{
+    height: 100%;
+}
+.sidebar{
+    width: 15%;
+    height: 100%;
+    float: left;
+    border-right: 3px solid brown;
+    background-color: burlywood;
+    text-align:center;
+}
+b{
+    color:black;
+    font-size: larger;
+    font-family: 'Gill Sans';
+}
+.sidebar a{
+    display: block;
+    margin-left: 12px;
+    margin-bottom: 12px;
+}
+
+.content{
+    width: 82%;
+    height: 100%;
+    float: left;
+}
